@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 1rem
+}
+
+.l-form{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form_butom{
+    display: block;
+    margin-left: auto;
+    padding: .75rem 2rem;
+    outline: none;
+    border: none;
+    background-color: rgb(0, 48, 153);
+    color: #fff;
+    font-size: 1 rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.form_butom:hover{
+    box-shadow: 0 10px 36px gray;
+}
+
+
+.contenedor{
+    width: auto;
+    padding: 4rem 2rem;
+    box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+}
+
+.contenedor img{
+    height: 300px;
+    width: 300px;
+}
+
+#texto{
+    text-align: justify;
+    
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Convergence', sans-serif;
+}
+
+
+

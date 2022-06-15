@@ -1,0 +1,30 @@
+#contenedor {
+	background: lightgray;
+	padding: 10px;
+    border-radius: 10px;
+
+}
+
+
+.mensajeBot {
+    background: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+.bloqueCliente {
+    text-align: right;
+}
+
+#contH{
+	display: none;
+}
+
+#input {
+    width: 100%;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
