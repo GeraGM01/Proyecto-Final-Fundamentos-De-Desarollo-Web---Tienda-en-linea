@@ -1,6 +1,7 @@
 # Proyecto-Final-Fundamentos-De-Desarollo-Web---Tienda-en-linea
 
 Proyecto final para la materia de Fundamentos De Desarollo Web, consiste en un sistema web para una tienda de artículos tecnológicos.
+Video explicativo: https://www.youtube.com/watch?v=3Bsbi_Mdmr0
 
 Roles de usuario:
 - Visitante(Usuario No autenticado)
